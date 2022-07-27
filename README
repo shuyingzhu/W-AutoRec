@@ -1,0 +1,19 @@
+The code is a demo that apply W-AutoRec on a simulation dataset with 1000 users and 1000 items. The default method is kW-IAutoRec, swift to gW-IAutoRec by setting gw = True in W_autorec.py file.
+
+REQUIREMENTS
+=============================================
+
+Tensorflow 1.7+, Python 3.5+, numpy, scipy, sklearn, pandas
+
+
+
+IMPLEMENTATION
+=============================================
+
+To run the code, change the current working directory to the "test" folder in terminal, and run: python test_rating_pred_simulation.py
+
+
+
+
+
+
